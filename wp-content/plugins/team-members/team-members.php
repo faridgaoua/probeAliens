@@ -74,7 +74,7 @@ add_action('init', function () {
         'label' => 'Genre',
         'public' => true,
         'show_in_rest' => true,
-        'hierarchical' => true,
+        'hierarchical' => false,
     ]);
 });
 

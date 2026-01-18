@@ -8,7 +8,7 @@ return array(
 		'title' => 'Team Members',
 		'category' => 'widgets',
 		'icon' => 'groups',
-		'description' => 'Display team members with genre filter (REST only)',
+		'description' => 'Display team members with genre filter',
 		'supports' => array(
 			'html' => false
 		),
