@@ -280,7 +280,7 @@ CREATE TABLE `wp_postmeta` (
 
 INSERT INTO `wp_postmeta` VALUES (1,2,'_wp_page_template','default');
 INSERT INTO `wp_postmeta` VALUES (2,3,'_wp_page_template','default');
-INSERT INTO `wp_postmeta` VALUES (3,8,'_edit_lock','1768752969:1');
+INSERT INTO `wp_postmeta` VALUES (3,8,'_edit_lock','1768752325:1');
 INSERT INTO `wp_postmeta` VALUES (4,9,'_edit_last',1);
 INSERT INTO `wp_postmeta` VALUES (5,9,'_edit_lock','1768742466:1');
 INSERT INTO `wp_postmeta` VALUES (6,10,'_wp_attached_file','2026/01/en.webp');
@@ -583,4 +583,4 @@ CREATE TABLE `wp_users` (
 
 INSERT INTO `wp_users` VALUES (1,'admin','$wp$2y$10$lak6xTn5VnzvHa9vdLRvnOSDNOWDLZwmBeKtKojgVpKY5zBQp0Qre','admin','admin@localhost.com','http://localhost:8881','2026-01-17 17:04:28','',0,'admin');
 
--- Dump completed on 2026-01-18T16:33:27+00:00
+-- Dump completed on 2026-01-18T16:05:37+00:00
