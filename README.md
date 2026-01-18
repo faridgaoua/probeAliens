@@ -11,7 +11,7 @@ Make sure you have the following installed:
 * Git
 * PHP (version compatible with the site)
 * MySQL / MariaDB
-* Web server (Apache, Nginx, or local stack like XAMPP, MAMP, WAMP, Laravel Valet)
+* Web server (Apache, Nginx, or local stack like XAMPP, MAMP, WAMP, wordpress studio)
 * (Optional but recommended) WP-CLI
 
 ---
