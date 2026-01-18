@@ -58,6 +58,11 @@ function create_block_team_members_block_init() {
 }
 add_action( 'init', 'create_block_team_members_block_init' );
 
+add_action('add_meta_boxes', function () {
+    remove_meta_box('genrediv', 'team_member', 'side');
+});
+
+
 /**
  * Register CPT & Taxonomy
  */
@@ -74,13 +79,10 @@ add_action('init', function () {
         'label' => 'Genre',
         'public' => true,
         'show_in_rest' => true,
-        'hierarchical' => false,
+        'hierarchical' => true,
     ]);
 });
 
-/**
- * Register ACF Field (Position)
- */
 add_action('acf/init', function () {
 
     if (!function_exists('acf_add_local_field_group')) return;
@@ -96,6 +98,18 @@ add_action('acf/init', function () {
                 'type' => 'text',
                 'required' => true,
             ],
+            [
+                'key' => 'field_genre',
+                'label' => 'Genre',
+                'name' => 'genre',
+                'type' => 'taxonomy',
+                'taxonomy' => 'genre',
+                'field_type' => 'radio', // <--- make it single select
+                'allow_null' => 0,
+                'add_term' => 1,
+                'load_save_terms' => 1,
+                'return_format' => 'id',
+            ],
         ],
         'location' => [
             [
@@ -109,6 +123,7 @@ add_action('acf/init', function () {
         'show_in_rest' => true,
     ]);
 });
+
 
 /**
  * REST API Endpoint
@@ -160,3 +175,14 @@ function team_members_rest(WP_REST_Request $request) {
 
     return rest_ensure_response($data);
 }
+
+add_filter('enter_title_here', function ($title, $post) {
+    if ($post->post_type === 'team_member') {
+        return 'Add Member Name';
+    }
+    return $title;
+}, 10, 2);
+
+
+
+

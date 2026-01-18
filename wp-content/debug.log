@@ -466,3 +466,81 @@ Stack trace:
 [18-Jan-2026 05:07:04 UTC]   Automatic plugin updates starting...
 [18-Jan-2026 05:07:04 UTC]   Automatic plugin updates complete.
 [18-Jan-2026 05:07:04 UTC] Automatic updates complete.
+[18-Jan-2026 13:54:13 UTC] PHP Warning:  Attempt to read property "slug" on array in /wordpress/wp-content/plugins/team-members/build/team-members/render.php on line 14
+[18-Jan-2026 13:54:13 UTC] PHP Warning:  Attempt to read property "name" on array in /wordpress/wp-content/plugins/team-members/build/team-members/render.php on line 15
+[18-Jan-2026 13:54:13 UTC] PHP Warning:  Attempt to read property "slug" on array in /wordpress/wp-content/plugins/team-members/build/team-members/render.php on line 14
+[18-Jan-2026 13:54:13 UTC] PHP Warning:  Attempt to read property "name" on array in /wordpress/wp-content/plugins/team-members/build/team-members/render.php on line 15
+[18-Jan-2026 13:54:50 UTC] PHP Warning:  Attempt to read property "slug" on array in /wordpress/wp-content/plugins/team-members/build/team-members/render.php on line 14
+[18-Jan-2026 13:54:50 UTC] PHP Warning:  Attempt to read property "name" on array in /wordpress/wp-content/plugins/team-members/build/team-members/render.php on line 15
+[18-Jan-2026 13:54:50 UTC] PHP Warning:  Attempt to read property "slug" on array in /wordpress/wp-content/plugins/team-members/build/team-members/render.php on line 14
+[18-Jan-2026 13:54:50 UTC] PHP Warning:  Attempt to read property "name" on array in /wordpress/wp-content/plugins/team-members/build/team-members/render.php on line 15
+[18-Jan-2026 15:27:47 UTC] PHP Warning:  Attempt to read property "slug" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:27:47 UTC] PHP Warning:  Attempt to read property "name" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:27:47 UTC] PHP Warning:  Attempt to read property "slug" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:27:47 UTC] PHP Warning:  Attempt to read property "name" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:27:51 UTC] PHP Warning:  Attempt to read property "slug" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:27:51 UTC] PHP Warning:  Attempt to read property "name" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:27:51 UTC] PHP Warning:  Attempt to read property "slug" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:27:51 UTC] PHP Warning:  Attempt to read property "name" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:27:54 UTC] PHP Warning:  Attempt to read property "slug" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:27:54 UTC] PHP Warning:  Attempt to read property "name" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:27:54 UTC] PHP Warning:  Attempt to read property "slug" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:27:54 UTC] PHP Warning:  Attempt to read property "name" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:28:08 UTC] PHP Warning:  Attempt to read property "slug" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:28:08 UTC] PHP Warning:  Attempt to read property "name" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:28:08 UTC] PHP Warning:  Attempt to read property "slug" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:28:08 UTC] PHP Warning:  Attempt to read property "name" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:28:16 UTC] PHP Warning:  Attempt to read property "slug" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:28:16 UTC] PHP Warning:  Attempt to read property "name" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:28:16 UTC] PHP Warning:  Attempt to read property "slug" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:28:16 UTC] PHP Warning:  Attempt to read property "name" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:28:26 UTC] PHP Warning:  Attempt to read property "slug" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:28:26 UTC] PHP Warning:  Attempt to read property "name" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:28:26 UTC] PHP Warning:  Attempt to read property "slug" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:28:26 UTC] PHP Warning:  Attempt to read property "name" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:28:29 UTC] PHP Warning:  Attempt to read property "slug" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:28:29 UTC] PHP Warning:  Attempt to read property "name" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:28:29 UTC] PHP Warning:  Attempt to read property "slug" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:28:29 UTC] PHP Warning:  Attempt to read property "name" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:28:42 UTC] PHP Warning:  Attempt to read property "slug" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:28:42 UTC] PHP Warning:  Attempt to read property "name" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:28:42 UTC] PHP Warning:  Attempt to read property "slug" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:28:42 UTC] PHP Warning:  Attempt to read property "name" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:28:44 UTC] PHP Warning:  Attempt to read property "slug" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:28:44 UTC] PHP Warning:  Attempt to read property "name" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:28:44 UTC] PHP Warning:  Attempt to read property "slug" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:28:44 UTC] PHP Warning:  Attempt to read property "name" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:29:01 UTC] PHP Warning:  Attempt to read property "slug" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:29:01 UTC] PHP Warning:  Attempt to read property "name" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:29:01 UTC] PHP Warning:  Attempt to read property "slug" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:29:01 UTC] PHP Warning:  Attempt to read property "name" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:29:05 UTC] PHP Warning:  Attempt to read property "slug" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:29:05 UTC] PHP Warning:  Attempt to read property "name" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:29:05 UTC] PHP Warning:  Attempt to read property "slug" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:29:05 UTC] PHP Warning:  Attempt to read property "name" on array in /wordpress/wp-content/plugins/team-members/team-members.php on line 75
+[18-Jan-2026 15:50:12 UTC] PHP Warning:  require(/wordpress/wp-content/plugins/team-members/build/blocks-manifest.php): Failed to open stream: No such file or directory in /wordpress/wp-includes/class-wp-block-metadata-registry.php on line 214
+[18-Jan-2026 15:50:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/wordpress/wp-content/plugins/team-members/build/blocks-manifest.php' (include_path='.:') in /wordpress/wp-includes/class-wp-block-metadata-registry.php:214
+Stack trace:
+#0 /wordpress/wp-includes/blocks.php(419): WP_Block_Metadata_Registry::get_collection_block_metadata_files('/wordpress/wp-c...')
+#1 /wordpress/wp-content/plugins/team-members/team-members.php(36): wp_register_block_types_from_metadata_collection('/wordpress/wp-c...', '/wordpress/wp-c...')
+#2 /wordpress/wp-includes/class-wp-hook.php(341): create_block_team_members_block_init('')
+#3 /wordpress/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#4 /wordpress/wp-includes/plugin.php(522): WP_Hook->do_action(Array)
+#5 /wordpress/wp-settings.php(742): do_action('init')
+#6 /wordpress/wp-config.php(102): require_once('/wordpress/wp-s...')
+#7 /wordpress/wp-load.php(50): require_once('/wordpress/wp-c...')
+#8 /wordpress/wp-admin/admin-ajax.php(22): require_once('/wordpress/wp-l...')
+#9 {main}
+  thrown in /wordpress/wp-includes/class-wp-block-metadata-registry.php on line 214
+[18-Jan-2026 15:52:37 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "team_member_genre_meta_box" not found or invalid function name in /wordpress/wp-admin/includes/template.php:1453
+Stack trace:
+#0 /wordpress/wp-admin/edit-form-advanced.php(714): do_meta_boxes(Object(WP_Screen), 'side', Object(WP_Post))
+#1 /wordpress/wp-admin/post-new.php(75): require('/wordpress/wp-a...')
+#2 {main}
+  thrown in /wordpress/wp-admin/includes/template.php on line 1453
+[18-Jan-2026 15:52:49 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "team_member_genre_meta_box" not found or invalid function name in /wordpress/wp-admin/includes/template.php:1453
+Stack trace:
+#0 /wordpress/wp-admin/edit-form-advanced.php(714): do_meta_boxes(Object(WP_Screen), 'side', Object(WP_Post))
+#1 /wordpress/wp-admin/post-new.php(75): require('/wordpress/wp-a...')
+#2 {main}
+  thrown in /wordpress/wp-admin/includes/template.php on line 1453
